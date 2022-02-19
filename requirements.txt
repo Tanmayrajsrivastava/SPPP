@@ -1,0 +1,8 @@
+matplotlib>=1.4.3
+numpy>=1.9.2
+pandas>=0.19
+pandas_datareader==0.10.0
+scikit_learn==1.0.2
+streamlit==1.1.0
+tensorflow-cpu==2.7.0
+yfinance>=0.1.69
